@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0pX5JMZtVTBo7rR1yu0CnQ.gif)
 
 <h1 align="center">Hey, I'm Rafi Bin Dastagir</h1>
 <h3 align="center">I am a molecular dynamics and machine learning enthusiast.</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi1114&label=Profile%20views&color=0e75b6&style=flat" alt="rafi1114" /> </p>
 
-<img align="right" alt="Molecular Dynamics" width="300" src="https://brehm-research.de/images/orca_aimd.gif">
+<img align="right" alt="Molecular Dynamics" width="300" src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/web/y/y/d/C8SC03258K-Direct-observation-of-the-intermediate-in-an-ultrafast-isomerization-without-credit.gif">
 
 - 🔭 I’m currently working on **medical related app for the visually impaired.**
 
