@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Rafi Bin Dastagir</h1>
 <h3 align="center">I am a molecular dynamics and machine learning enthusiast.</h3>
 
+<img align="right" alt="Molecular Dynamics" width="400" src="https://brehm-research.de/images/orca_aimd.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi1114&label=Profile%20views&color=0e75b6&style=flat" alt="rafi1114" /> </p>
 
 - 🔭 I’m currently working on **medical related app for the visually impaired.**
